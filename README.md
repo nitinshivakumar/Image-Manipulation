@@ -5,15 +5,16 @@ This Python script demonstrates basic image processing techniques using OpenCV. 
 
 ## Requirements
 
-Python 3.x
+Python 3.8
 OpenCV (pip install opencv-python)
-Usage
+
+## Usage
 
 Place the script (image_processing.py) in the same directory as your images.
 Update the script with the correct image file names.
 Run the script (python image_processing.py).
 
-### Operations Included
+## Operations Included
 
   > Gray Scale Image: Converts the input image to grayscale.
   > Gray Scale Image Scaled: Scales down the grayscale image by half.
