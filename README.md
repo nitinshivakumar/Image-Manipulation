@@ -15,15 +15,16 @@ Run the script (python image_processing.py).
 
 ### Operations Included
 
-Gray Scale Image: Converts the input image to grayscale.
-Gray Scale Image Scaled: Scales down the grayscale image by half.
-Gray Scale Image Translated: Translates the grayscale image by 50 pixels both horizontally and vertically.
-Gray Scale Image Flip Horizontal: Flips the grayscale image horizontally.
-Gray Scale Image Flip Vertical: Flips the grayscale image vertically.
-Gray Scale Image Invert: Inverts the colors of the grayscale image.
-Gray Scale Image Rotate 45: Rotates the grayscale image by 45 degrees around its center.
-Image Scale (Bonus): Scales down the input color image by half.
-Image Translate (Bonus): Translates the input color image by 50 pixels both horizontally and vertically.
-Image Flip Horizontal (Bonus): Flips the input color image horizontally.
-Image Flip Vertical (Bonus): Flips the input color image vertically.
+  Gray Scale Image: Converts the input image to grayscale.
+  Gray Scale Image Scaled: Scales down the grayscale image by half.
+  Gray Scale Image Translated: Translates the grayscale image by 50 pixels both horizontally and vertically.
+  Gray Scale Image Flip Horizontal: Flips the grayscale image horizontally.
+  Gray Scale Image Flip Vertical: Flips the grayscale image vertically.
+  Gray Scale Image Invert: Inverts the colors of the grayscale image.
+  Gray Scale Image Rotate 45: Rotates the grayscale image by 45 degrees around its center.
+  Image Scale (Bonus): Scales down the input color image by half.
+  Image Translate (Bonus): Translates the input color image by 50 pixels both horizontally and vertically.
+  Image Flip Horizontal (Bonus): Flips the input color image horizontally.
+  Image Flip Vertical (Bonus): Flips the input color image vertically.
+
 The processed images will be saved in the same directory with appropriate names.
